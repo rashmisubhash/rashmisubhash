@@ -20,12 +20,17 @@ I've now begun my journey in the backend. I am constantly learning new things th
 
 ### Blogs ✍️
 <p align="left">
-<a href="https://rashmisubhash.hashnode.dev/complete-beginners-guide-on-the-usestate-hooks"><img src="https://github.com/rashmisubhash/rashmisubhash/blob/main/A%20look%20at%20(6).png" alt="A Year at KonfHub" width="250px" align="left" /></a>
+<a href="https://rashmisubhash.hashnode.dev/complete-beginners-guide-on-the-usestate-hooks"><img src="https://github.com/rashmisubhash/rashmisubhash/blob/main/A%20look%20at%20(6).png" alt="React Hooks" width="250px" align="left" /></a>
 <a href="https://rashmisubhash.hashnode.dev/complete-beginners-guide-on-the-usestate-hooks" title="The useState hook in React"><strong>Complete beginner's guide on the useState Hooks 🕛>🦸‍♀️</strong></a>
 <br/> When I first started using React, I had a lot of questions and looked up countless articles, videos, and other resources.
 It took a while to grasp the basic concepts - what, why, when, and how to use the Hooks. With the knowledge I've gained over the years, I'm starting an article series on React Hooks. Here is my first blog post on the React useState Hook - covers all fundamental concepts, examples, and use cases.
 </p> 
- 
+
+<p align="left">
+<a href="https://rashmisubhash.hashnode.dev/a-more-advanced-guide-to-the-usestate-hooks"><img src="https://github.com/rashmisubhash/rashmisubhash/blob/main/A%20look%20at%20(6).png" alt="React Hooks" width="250px" align="left" /></a>
+<a href="https://rashmisubhash.hashnode.dev/complete-beginners-guide-on-the-usestate-hooks" title="The useState hook in React"><strong>A more advanced guide to the useState Hooks 🕕>🦸‍♀️♀️</strong></a>
+My second blog post on the React useState Hook - presents advanced topics, rules to follow, and mistakes to avoid using this Hook.
+</p>  
 <br/>
  
 ### Where to find me ⁉
