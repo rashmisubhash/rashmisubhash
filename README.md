@@ -29,8 +29,9 @@ It took a while to grasp the basic concepts - what, why, when, and how to use th
 <p align="left">
 <a href="https://rashmisubhash.hashnode.dev/a-more-advanced-guide-to-the-usestate-hooks"><img src="https://github.com/rashmisubhash/rashmisubhash/blob/main/A%20look%20at%20(6).png" alt="React Hooks" width="250px" align="left" /></a>
 <a href="https://rashmisubhash.hashnode.dev/complete-beginners-guide-on-the-usestate-hooks" title="The useState hook in React"><strong>A more advanced guide to the useState Hooks 🕕>🦸‍♀️♀️</strong></a>
-My second blog post on the React useState Hook - presents advanced topics, rules to follow, and mistakes to avoid using this Hook.
+My second blog post on the React useState Hook - <br/>presents advanced topics, rules to follow, and mistakes to avoid using this Hook.
 </p>  
+
 <br/>
  
 ### Where to find me ⁉
