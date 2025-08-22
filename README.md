@@ -1,4 +1,5 @@
-<h1>Hello! Nice to see you, I'm Rashmi Subhash <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1> 
+<h1>Hello! Nice to see you, I'm Rashmi Subhash <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
+ <a href="https://my-portfolio-gamma-smoky-38.vercel.app/" target="_blank">Portfolio</a></h1> 
 
 <img align='right' src="https://github.com/rashmisubhash/rashmisubhash/blob/main/giphy.gif" width="230">
 
@@ -6,6 +7,8 @@
  <p>
             I’m a full-stack & serverless engineer (4+ years) crafting event-driven platforms, distributed systems, and AI-powered features that scale effortlessly. I specialize in AWS architectures, performance optimization, and automation that transforms product ideas into reliable, production-ready solutions.  
           </p>
+
+  
 
  <ul className="about__highlights" aria-label="Key achievements">
         <li><strong>300k+ users</strong> supported across <strong>500+ global events</strong></li>
